@@ -1,0 +1,7 @@
+la informacion presentada va en funcion de los requerimientos del usuario en su busqueda de la satisfaccion de sus necesidades basicas como es el de la alimentacion, entre otros
+e=np.array([10,20,30,40,50,60])
+print(e)
+e.ndim
+
+
+
